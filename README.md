@@ -1,4 +1,4 @@
-# YOYO: Asistente Terapéutico Robótico para Adultos Mayores
+# JOJO: Asistente Terapéutico Robótico para Adultos Mayores
 
 Este proyecto busca desarrollar un asistente terapéutico robótico con brazo articulado, controlado por voz mediante ESP32 y aplicación web, diseñado para mejorar la calidad de vida de adultos mayores.
 
