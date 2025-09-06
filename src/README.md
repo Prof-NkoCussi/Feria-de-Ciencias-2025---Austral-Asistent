@@ -1,0 +1,3 @@
+# Carpeta `src`
+
+Este archivo asegura que la carpeta se mantenga en el repositorio.
